@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F0180F72-00D1-4496-A506-3F0982743044</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ImageViewProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>93E78041-8D04-453F-9E86-9A40166A7AA4</key>
+		<string>https://github.com/hunglt92/ImageViewProject.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ImageViewProject/ImageViewProject.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>93E78041-8D04-453F-9E86-9A40166A7AA4</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hunglt92/ImageViewProject.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>93E78041-8D04-453F-9E86-9A40166A7AA4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>93E78041-8D04-453F-9E86-9A40166A7AA4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ImageViewProject</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -48,6 +48,8 @@
 		4C617C5C176F8F38002F105E /* ImageViewProjectTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ImageViewProjectTests-Info.plist"; sourceTree = "<group>"; };
 		4C617C5E176F8F38002F105E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4C617C60176F8F38002F105E /* ImageViewProjectTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImageViewProjectTests.m; sourceTree = "<group>"; };
+		4C617C6A176F9090002F105E /* abc.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = abc.h; sourceTree = "<group>"; };
+		4C617C6B176F9090002F105E /* abc.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = abc.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,8 @@
 		4C617C2F176F8F38002F105E = {
 			isa = PBXGroup;
 			children = (
+				4C617C6A176F9090002F105E /* abc.h */,
+				4C617C6B176F9090002F105E /* abc.m */,
 				4C617C41176F8F38002F105E /* ImageViewProject */,
 				4C617C5A176F8F38002F105E /* ImageViewProjectTests */,
 				4C617C3A176F8F38002F105E /* Frameworks */,
@@ -437,6 +441,7 @@
 				4C617C66176F8F38002F105E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4C617C67176F8F38002F105E /* Build configuration list for PBXNativeTarget "ImageViewProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -445,6 +450,7 @@
 				4C617C69176F8F38002F105E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
