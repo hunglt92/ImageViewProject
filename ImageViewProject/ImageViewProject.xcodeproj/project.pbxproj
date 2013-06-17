@@ -50,6 +50,9 @@
 		4C617C60176F8F38002F105E /* ImageViewProjectTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImageViewProjectTests.m; sourceTree = "<group>"; };
 		4C617C6A176F9090002F105E /* abc.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = abc.h; sourceTree = "<group>"; };
 		4C617C6B176F9090002F105E /* abc.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = abc.m; sourceTree = "<group>"; };
+		4CBFB8D8176F91D3001BEA29 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		4CBFB8D9176F91D3001BEA29 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		4CBFB8DA176F91D3001BEA29 /* ViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +84,9 @@
 			children = (
 				4C617C6A176F9090002F105E /* abc.h */,
 				4C617C6B176F9090002F105E /* abc.m */,
+				4CBFB8D8176F91D3001BEA29 /* ViewController.h */,
+				4CBFB8D9176F91D3001BEA29 /* ViewController.m */,
+				4CBFB8DA176F91D3001BEA29 /* ViewController.xib */,
 				4C617C41176F8F38002F105E /* ImageViewProject */,
 				4C617C5A176F8F38002F105E /* ImageViewProjectTests */,
 				4C617C3A176F8F38002F105E /* Frameworks */,
